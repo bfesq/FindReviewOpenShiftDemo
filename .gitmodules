@@ -1,0 +1,15 @@
+[submodule "cafeui"]
+	path = cafeui
+	url = https://github.com/bfesq/cafeui.git
+[submodule "geoetl"]
+	path = geoetl
+	url = https://github.com/bfesq/geoetl.git
+[submodule "ReviewQuery"]
+	path = ReviewQuery
+	url = https://github.com/bfesq/ReviewQuery.git
+[submodule "ReviewCommand"]
+	path = ReviewCommand
+	url = https://github.com/bfesq/ReviewCommand.git
+[submodule "geoservice"]
+	path = geoservice
+	url = https://github.com/bfesq/geoservice.git
